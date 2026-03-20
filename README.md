@@ -1,2 +1,2 @@
 # Networking-Lab
-Documentation of my networking lab setup and troubleshooting process.
+Documentating my networking lab setup and troubleshooting process.
